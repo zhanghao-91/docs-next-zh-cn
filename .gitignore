@@ -90,10 +90,10 @@ typings/
 .cache
 
 # rollup.js default build output
-dist/
+# dist/
 
 # vuepress build output
-.vuepress/dist
+# .vuepress/dist
 
 # Serverless directories
 .serverless/
